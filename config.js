@@ -1,0 +1,2 @@
+const JWT_SECRET = "eyJzdWIiOiIxMjM0NY30bmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ"
+export default JWT_SECRET
